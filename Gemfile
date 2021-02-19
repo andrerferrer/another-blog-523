@@ -58,3 +58,5 @@ gem 'simple_form'
 
 # use this gem to handle API keys
 gem 'dotenv-rails', groups: [:development, :test]
+
+gem 'cloudinary', '~> 1.16.0'
